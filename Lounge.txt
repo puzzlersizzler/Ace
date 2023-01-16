@@ -7,7 +7,7 @@ Bunk Beds.
 Single Room.
 Double Room.
 Prestige Room.
-Pent-House.
+
 
 
 
