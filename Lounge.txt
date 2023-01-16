@@ -8,6 +8,9 @@ Single Room.
 Double Room.
 Prestige Room.
 
+Lake Side Room.
+Mountain Facing Room.
+
 
 
 
